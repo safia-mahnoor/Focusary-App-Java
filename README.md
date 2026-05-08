@@ -32,11 +32,8 @@ Focusary is a Java-based productivity timer application inspired by the Pomodoro
 
  Project Screenshot
 
-![Focusary Screenshot](oop project-github\assets\screenshot\ss.png)
-
-## How to Run
-
-1. Clone the repository:
+[Focusary Screenshot](oop project-github\assets\screenshot\ss.png)
+ How to Run
 
 ```bash
-git clone https://github.com/safia-mahnoor/Focusary-App-Java.git
+ https://github.com/safia-mahnoor/Focusary-App-Java.git
